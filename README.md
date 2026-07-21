@@ -1,4 +1,4 @@
-## My changes - In Progress
+## My changes - in progress
 
 Originally, the code used string values to store the state of the salad robot. My code refactors it into a state machine system to improve code maintainability and ensure that all state transitions are valid.
 
