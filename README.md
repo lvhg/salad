@@ -1,3 +1,7 @@
+## My changes - In Progress
+
+Originally, the code used string values to store the state of the salad robot. My code refactors it into a state machine system to improve code maintainability and ensure that all state transitions are valid.
+
 # Module salad
 
 A Viam module for automated salad assembly. The module pairs a custom
